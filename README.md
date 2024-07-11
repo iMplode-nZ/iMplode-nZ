@@ -8,7 +8,7 @@ Hello, I'm \[DATA EXPUNGED]. I like to make and design videogames. My current fa
 
 ### Languages and Tools
 
-<a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="50" height="50"/></a>
+<a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="50" height="50"/></a>
 <a href="https://wgpu.rs" target="_blank"><img src="https://wgpu.rs/logo.min.svg" alt="WGPU" width="50" height="50"/></a>
 <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
 <a href="https://webpack.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="50" height="50"/></a>
